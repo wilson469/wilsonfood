@@ -210,3 +210,36 @@
   border-top-left-radius: 29px;
   border-top-right-radius:29px ;
 }
+/** about res **/
+.line{
+    color:black;
+    margin-top: 20px;
+    margin-bottom:5px;
+    font-size: 20px;
+    font-family: "Cedarville Cursive", cursive;
+
+}
+.about-res{
+    background-image:url(images/36.jpeg) ;
+    background-size: cover;
+    background-color:lightgray;
+    color:black;
+    height:150px;
+    border-top-left-radius: 50px; 
+    border-top-right-radius: 50px;   
+}
+.contact{
+    background-color: white;
+    height: 40px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-left-radius: 50px; 
+    border-bottom-right-radius: 50px; 
+}
+.contactus{
+    background-color: white;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+}
